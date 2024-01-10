@@ -2,7 +2,7 @@
 
 El proyecto consiste en un generador de colores aleatorios implementado con HTML, CSS y JavaScript. La aplicación ofrece una interfaz simple que permite a los usuarios explorar una variedad de colores hexadecimales de forma divertida y creativa. A continuación, se detallan las características clave:
 
-<a href="https://luiso-o.github.io/" target="_blank">Link para ver el proyecto con GitHub Pages 😊🔗</a>
+<a href="https://luiso-o.github.io/colores-aleatorios/" target="_blank">Link para ver el proyecto con GitHub Pages 😊🔗</a>
 
 ### Funcionalidades Principales:
 
