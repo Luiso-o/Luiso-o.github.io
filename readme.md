@@ -30,3 +30,5 @@ El proyecto consiste en un generador de colores aleatorios implementado con HTML
 Este generador de colores aleatorios es un proyecto ligero, pero ofrece oportunidades para la expansión y mejora con el tiempo.
 
 <a href = "https://www.youtube.com/watch?v=koiPxFFiqJ4&t=9876s">⭐️ Proyectos ⭐️Colores Hex Aleatorios</a>
+
+![Capture](https://github.com/Luiso-o/Luiso-o.github.io/assets/128043647/c857d7e3-7bd8-48ee-adcb-340ca7c3ed39)
